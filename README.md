@@ -6,6 +6,27 @@
 	<img width="300" height="200" src="https://media1.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" alt="react">
 	</a>
 </p>
+
+<p align="center">
+	<a href="https://wuud.net">
+		<img width="160" height="169" src="https://github.com/WuuD-Team/WuuD-Website/blob/master/favicon.ico?raw=true" alt="wuud">
+	<img width="300" height="200" src="https://media1.giphy.com/media/iFmw13LV1hHhViPPWz/source.gif" alt="react">
+	</a>
+</p>
+<p align="center">
+	<a href="https://wuud.net">
+		<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/na6im/react-floating-button/Node.js Package?color=cyan&label=Build">
+		<img alt="npm" src="https://img.shields.io/npm/dw/react-floating-button?color=yellow">
+	</a>
+	<a href="https://wuud.net">
+		<img alt="NPM" src="https://img.shields.io/npm/l/react?color=black">
+		<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/na6im/react-floating-button-demo?color=red&label=Version">
+		<img alt="GitHub package.json dependency version" src="https://img.shields.io/github/package-json/dependency-version/na6im/react-floating-button-demo/react">
+		<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/na6im/react-floating-button-demo?color=purple">
+		<img alt="Website" src="https://img.shields.io/website?down_color=Red&label=Website&style=flat-square&up_color=Yellow&up_message=Active&url=https%3A%2F%2Fna6im.github.io%react-floating-button-demo%2F">
+	</a>
+</p>
+
 <br>
 <br>
 
